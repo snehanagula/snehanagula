@@ -2,7 +2,7 @@
 - 👀 I’m interested in GDE and Prompt Engineering
 - 🌱 I’m currently learning b.Tech 3rd year
 - 💞️ I’m looking to collaborate on google GDE
-- 📫 How to reach me _haha.sneha_ its my instagram id
+- 📫 How to reach me _haha.sneha_ is my instagram id
 
 <!---
 snehanagula/snehanagula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
