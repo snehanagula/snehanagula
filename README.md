@@ -2,7 +2,7 @@
 - 👀 I’m interested in Testing and Prompt Engineering
 - 🌱 I’m currently learning b.Tech 4rd year
 - 💞️ I’m looking to collaborate with Top most MNC
-- 📫 How to reach me __sneha.nagula__ is my instagram id
+- 📫 How to reach me _ sneha.nagula _ is my instagram id
 
 <!---
 snehanagula/snehanagula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
