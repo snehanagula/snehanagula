@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snehanagula
 - 👀 I’m interested in Testing, Prompt Engineering, Data Analytics, Data Science
-- 🌱 I have completed my graduation
+- 🌱 I have completed my Graduation
 - 💞️ I’m looking to collaborate with Top most MNC
 - 📫 How to reach me _ sneha.nagula _ is my instagram id
 
